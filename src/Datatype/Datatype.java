@@ -10,6 +10,7 @@ public class Datatype {
 		String string = "it is string";
 		float Float = 87f;
 		boolean bool = true;
+		char Char = 'a';
 		
 		//output
 		
@@ -17,6 +18,7 @@ public class Datatype {
 		System.out.println(string);
 		System.out.println(Float);
 		System.out.println(bool);
+		System.out.println(Char);
 		
 	}
 	
